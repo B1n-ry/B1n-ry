@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello There!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=B1n-ry&theme=highcontrast)](https://git.io/streak-stats)
+
 
 <!--
 **B1n-ry/B1n-ry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
