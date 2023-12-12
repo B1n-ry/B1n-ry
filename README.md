@@ -1,7 +1,10 @@
 ### Hello There!
 
+I do some coding and stuff. Most notably (probably) minecraft mods
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=B1n-ry&theme=highcontrast)](https://git.io/streak-stats)
 
+![Join my discord](https://discordapp.com/api/guilds/921478401896886283/widget.png?style=banner2)
 
 <!--
 **B1n-ry/B1n-ry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
