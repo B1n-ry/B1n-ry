@@ -2,7 +2,7 @@
 
 I do some coding and stuff. Most notably (probably) minecraft mods
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=B1n-ry&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=B1n-ry)](https://git.io/streak-stats)
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/921478401896886283/widget.png?style=banner2)
 
